@@ -1,14 +1,3 @@
-# 1. Name:
-#      Kate Clark
-# 2. Assignment Name:
-#      Lab 06 : Sudoku Program
-# 3. Assignment Description:
-#      This program is meant to read a sudoku board from a user-specified file and then display the board. It will then ask the user for coordinates and a number and place the number at those coordinates. The file will be able to be saved and played from the save point upon restarting the program as well. It will follow the rules of Sudoku.
-# 4. What was the hardest part? Be as specific as possible.
-#      One of the hardest things was making sure that the game loop functioned properly and in the right order. I ran into trouble with this because I had a misconception about how while loops worked. Another thing that I found difficult was validating that the number a user entered was valid since I couldn't figure out how to check if the number was in the inside square already for the longest time.
-# 5. How long did it take for you to complete the assignment?
-#      It took me about 10 hours to complete.
-
 import json
 
 blank = " "
